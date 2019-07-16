@@ -1,0 +1,9 @@
+el ejericio inicial era plantear un temporizador que retrocediera.
+
+Para eso:
+
+1. Se hizo el diagrama en (www.graw.io) para tener claro el orden en que se debia realizar
+2. En python se crearon dos py. (cliente y temporizador)
+	se debe definir las unidades de tiempo y cada unidad tiene un valor y tope.
+
+la segunda parte del ejercicio es hacer que el temporizador cuando llegue a 0:0:0 incie hacia adelante y se detenga en el tiempo planteado.
